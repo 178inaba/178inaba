@@ -1,4 +1,4 @@
-![Header Image](https://user-images.githubusercontent.com/12012186/89342311-91c5d780-d6dd-11ea-98ea-0bf7b168a7aa.jpg)
+![Header Image](https://user-images.githubusercontent.com/12012186/89343419-3694e480-d6df-11ea-9209-63c75d9264f5.jpg)
 
 [![HitCount](http://hits.dwyl.com/178inaba/178inaba.svg)](http://hits.dwyl.com/178inaba/178inaba)
 
