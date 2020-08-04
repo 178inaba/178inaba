@@ -1,4 +1,4 @@
-[![Header Image](images/header.jpg)](images/origin.jpg)
+[![Header Image](https://raw.githubusercontent.com/178inaba/178inaba/master/images/header.jpg)](https://raw.githubusercontent.com/178inaba/178inaba/master/images/origin.jpg)
 
 [![HitCount](http://hits.dwyl.com/178inaba/178inaba.svg)](http://hits.dwyl.com/178inaba/178inaba)
 
